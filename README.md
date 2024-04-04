@@ -29,7 +29,7 @@ The private repo contains implementation of different AI algorithms such as
 4. **DECISION TREE**:
    **Algorithms**:
    1. Implemnted **Decision tree** from scratch.
-   2. Implemented **Random forest**.
+   2. Implemented **Random forest** from scratch.
   
 6. **GAUSSIAN MIXTURE MODEL**:
    1. **k-Means Clustering** 
